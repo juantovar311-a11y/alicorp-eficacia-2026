@@ -1,6 +1,0 @@
-services:
-  - type: web
-    runtime: static
-    name: alicorp-ejecucion-eficacia-2026
-    buildCommand: echo "Sitio estático listo"
-    staticPublishPath: public
